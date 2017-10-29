@@ -6,7 +6,7 @@ import javax.net.ssl.*;
 import java.security.*;
 import java.security.cert.*;
 
-public class Main
+public class SocketUtils
 {
 	public static void main(String[] args)
 	{
